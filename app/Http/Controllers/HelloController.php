@@ -7,4 +7,8 @@ use Illuminate\Http\Request;
 class HelloController extends Controller
 {
     //
+
 }
+
+
+?>
