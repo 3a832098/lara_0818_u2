@@ -3,9 +3,12 @@
     <title></title>
 </head>
 <body>
-
-<h1>H1 HelloWorld~</h1>
-
+    @extends('layouts.master')
+    @section('title','Home')
+    @section('content')
+    <h1>Home</h1>
+    <p>This is my body content</p>
+    @endsection
 
 </body>
 
