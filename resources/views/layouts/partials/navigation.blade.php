@@ -1,10 +1,4 @@
-<!DOCTYPE HTML>
-<head>
-    <title></title>
-</head>
-<body>
-
-    <ul>
+<ul>
         <li>
             <a href="#">Item 1</a>
         </li>
@@ -12,8 +6,5 @@
             <a href="#">Item 2</a>
         </li>
 
-    </ul>
+</ul>
 
-
-</body>
-</html>
