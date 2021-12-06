@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<head>
-    <title></title>
-</head>
-<body>
+
     @extends('layouts.master')
     @section('title','Home')
     @section('content')
@@ -10,6 +6,3 @@
     <p>This is my body content</p>
     @endsection
 
-</body>
-
-</html>
